@@ -1,4 +1,4 @@
-# Enter the Enneagram BACKEND. 
+# Enter the Enneagram Backend
 
 
 See the working app and [discover your Enneatype!](https://enter-the-enneagram.herokuapp.com/)
